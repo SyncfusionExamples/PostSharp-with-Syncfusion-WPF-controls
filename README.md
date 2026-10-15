@@ -52,7 +52,3 @@ The custom grid demonstrates the use of PostSharp's [DependencyProperty] and [At
 - [PostSharp Documentation](https://www.postsharp.net/)
 - [Syncfusion WPF Controls](https://www.syncfusion.com/wpf-controls)
 - [Syncfusion SfDataGrid Documentation](https://help.syncfusion.com/wpf/datagrid/overview)
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
